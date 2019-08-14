@@ -16,7 +16,7 @@
             </b-nav-item>
 
             <b-nav-item href="#">
-              <router-link to="/categorias">Categorias</router-link>
+              <router-link to="/categorias">Pokemon Types</router-link>
             </b-nav-item>
 
             <b-nav-item href="#">
